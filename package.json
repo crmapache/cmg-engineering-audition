@@ -1,0 +1,19 @@
+{
+  "name": "sensor-analyzer",
+  "version": "1.0.0",
+  "description": "CMG Engineering Audition",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "author": "Maksim Zolotoi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.2",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
